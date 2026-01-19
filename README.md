@@ -36,16 +36,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Flowseal&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
 
 ###
 
