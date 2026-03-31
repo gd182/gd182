@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:8b5cf6,100:06b6d4&height=250&section=header&text=gd182&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%20Experienced%20Coder%20&descSize=22&descAlignY=55&descColor=06b6d4" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:8b5cf6,100:06b6d4&height=250&section=header&text=gd182&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%20Experienced%20Coder%20&descSize=22&descAlignY=60&descColor=06b6d4" width="100%" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+things+that+actually+work;From+low-level+C%2B%2B+to+modern+web;Clean+code+%3E+clever+code;%F0%9F%8E%AF+Solving+problems+one+commit+at+a+time)](https://git.io/typing-svg)
@@ -104,20 +104,16 @@ CMake · Docker
 
 ## Let's Connect
 
-<a href="https://t.me/your_username">
+<a href="https://t.me/rkt267">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-&nbsp;
+<!--&nbsp;
 <a href="https://discord.gg/">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+</a>-->
 &nbsp;
-<a href="mailto:your@email.com">
+<a href="mailto:kimert182@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/gd182">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
