@@ -15,55 +15,29 @@
 ## 🛠️ Tools & Databases
 
 <img src="https://skillicons.dev/icons?i=git,cmake,githubactions,postgres,mysql&theme=dark" />
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="MS SQL Server" style="filter: invert(1);" />
 
 ## 💻 IDEs & Editors
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,qt&theme=dark" />
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="48" alt="PyCharm" />
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gd182&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gd182&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gd182&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github" width="49%" />
+<img src="https://streak-stats.demolab.com?user=gd182&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gd182&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gd182&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="40%" />
 
 ---
 
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=gd182&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gd182&bg_color=0d1117&color=6366f1&line=06b6d4&point=ffffff&area=true&area_color=6366f1&hide_border=true" width="95%" />
-
----
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gd182/gd182/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gd182/gd182/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/gd182/gd182/output/github-snake-dark.svg" />
-</picture>
-
----
-
-<!-- Socials -->
 ### 📫 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/кел267)
+<!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/) -->>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimert182@gmail.com)
 
 ---
 
