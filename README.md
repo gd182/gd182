@@ -61,13 +61,11 @@ Server Architecture
 </td>
 <td align="center" width="33%">
 
-**Frontend**
+**Frontend (Not the main thing, but I can do a little)**
 <br/>
 TypeScript · JavaScript
 <br/>
 HTML · CSS
-<br/>
-Responsive Design
 
 </td>
 <td align="center" width="33%">
