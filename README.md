@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:8b5cf6,100:06b6d4&height=250&section=header&text=Alexey%20Mordvintsev&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=C%2B%2B%20Software%20Engineer%20%7C%20Desktop%20%C2%B7%20Embedded%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=60&descColor=06b6d4" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:8b5cf6,100:06b6d4&height=250&section=header&text=gd182&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=C%2B%2B%20Software%20Engineer%20%7C%20Desktop%20%C2%B7%20Embedded%20%C2%B7%20CV&descSize=20&descAlignY=60&descColor=06b6d4" width="100%" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Building+high-performance+systems+since+2021;C%2B%2B17%2F20+%C2%B7+Qt+%C2%B7+Multithreading+%C2%B7+Embedded;50%2B+delivered+projects+across+freelance+%26+in-house;Clean+architecture+%3E+clever+hacks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=5%2B+years+of+commercial+C%2B%2B+development;Qt+%C2%B7+Multithreading+%C2%B7+Embedded+%C2%B7+Computer+Vision;50%2B+delivered+projects;Clean+architecture+%3E+clever+hacks)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,16 +18,16 @@
 class SoftwareEngineer {
     std::string name     = "Alexey Mordvintsev";
     std::string focus    = "Desktop & Embedded Systems";
-    int         years    = 5;
     std::string location = "Moscow, Russia";
+    int         experience_years = 5;
 
     std::vector<std::string> stack = {
         "C++17/20", "Qt", "STL", "Boost",
         "OpenCV", "Python", "FreeRTOS", "CMake"
     };
 
-    std::string currentWork() {
-        return "Synthetic dataset generation system (3D → ML pipeline)";
+    std::string currentProject() {
+        return "Synthetic dataset generation — 3D models to ML pipeline";
     }
 };
 ```
@@ -58,7 +58,7 @@ class SoftwareEngineer {
 
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git&theme=dark" /></a>
 <br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=cmake,docker,linux,vscode&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cmake,linux,docker,vscode&theme=dark" /></a>
 
 <br/><br/>
 
@@ -74,11 +74,11 @@ class SoftwareEngineer {
 
 **🖥️ Desktop Applications**
 <br/>
-C++ · Qt (Widgets, QML)
+C++ · Qt Widgets · QML
 <br/>
 Cross-platform Windows/Linux
 <br/>
-Real-time data visualization
+Real-time data & telemetry
 
 </td>
 <td align="center" width="33%">
@@ -89,7 +89,7 @@ ESP32 · FreeRTOS
 <br/>
 Firmware development
 <br/>
-Hardware integration
+Hardware interfaces & sensors
 
 </td>
 <td align="center" width="33%">
@@ -100,7 +100,7 @@ OpenCV · PyTorch · TensorFlow
 <br/>
 Real-time video processing
 <br/>
-ML integration in production
+ML models in production
 
 </td>
 </tr>
@@ -124,16 +124,12 @@ ML integration in production
 
 ## Let's Connect
 
-<a href="https://t.me/Rkt267">
+<a href="https://t.me/rkt267">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:alex182x@mail.ru">
+<a href="mailto:kimert182@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/alexey-mordvintsev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -144,7 +140,6 @@ ML integration in production
 
 <br/><br/>
 
-<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:8b5cf6,100:06b6d4&height=150&section=footer" width="100%" />
 
 </div>
