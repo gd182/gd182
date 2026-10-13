@@ -18,6 +18,7 @@ One part instead of three, no glue logic required.
 - **Desktop:** Qt Widgets / QML / Charts, real-time telemetry, serial and network protocols
 - **Vision & ML:** OpenCV pipelines, PyTorch / LibTorch, TensorFlow
 - **Core:** C++17/20, STL, Boost, CMake, multithreading
+- **Graphics:** Vulkan
 - **Also supported:** embedded (ESP32, FreeRTOS)
 - Field-proven: 5+ years in production, 50+ shipped projects
 - Builds on Linux. Always.
@@ -36,7 +37,24 @@ so detectors can be trained without manual annotation.
 ## Supported toolchain
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,py,opencv,pytorch,tensorflow,vulkan,postgres,sqlite,docker,linux,git&perline=13" alt="Tech stack" />
+  <a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++" /></a>&nbsp;
+  <a href="https://www.qt.io" target="_blank" rel="noreferrer"><img src="assets/icons/qt.svg" width="36" height="36" alt="Qt" title="Qt" /></a>&nbsp;
+  <a href="https://cmake.org" target="_blank" rel="noreferrer"><img src="assets/icons/cmake.svg" width="36" height="36" alt="CMake" title="CMake" /></a>&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>&nbsp;
+  <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="assets/icons/opencv.svg" width="36" height="36" alt="OpenCV" title="OpenCV" /></a>&nbsp;
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch" /></a>&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow" /></a>&nbsp;
+  <a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" /></a>&nbsp;
+  <a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender" /></a>&nbsp;
+  <a href="https://www.vulkan.org" target="_blank" rel="noreferrer"><img src="assets/icons/vulkan.svg" width="72" height="36" alt="Vulkan" title="Vulkan" /></a>&nbsp;
+  <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" title="Raspberry Pi" /></a>&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp;
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="assets/icons/sqlite.svg" width="36" height="36" alt="SQLite" title="SQLite" /></a>&nbsp;
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" /></a>&nbsp;
+  <a href="https://www.kernel.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux" /></a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash" title="Bash" /></a>&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>&nbsp;
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>&nbsp;
 </p>
 
 ## Operating notes
